@@ -1,0 +1,10 @@
+
+@import "./assets/styles/material-theme";
+@import "~@ngx-share/button/themes/default/default-theme";
+body {
+  margin: 0;
+}
+.loader mat-spinner {
+  margin: 10px auto;
+  
+}
